@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/595/trunk/itechservice/framework/console
+END
+CHelpCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/595/trunk/itechservice/framework/console/CHelpCommand.php
+END
+CConsoleCommandRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/595/trunk/itechservice/framework/console/CConsoleCommandRunner.php
+END
+CConsoleCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/595/trunk/itechservice/framework/console/CConsoleCommand.php
+END
+CConsoleCommandBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/595/trunk/itechservice/framework/console/CConsoleCommandBehavior.php
+END
+CConsoleApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/595/trunk/itechservice/framework/console/CConsoleApplication.php
+END
+CConsoleCommandEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/595/trunk/itechservice/framework/console/CConsoleCommandEvent.php
+END

@@ -1,0 +1,138 @@
+10
+
+dir
+697
+https://prdapp.googlecode.com/svn/trunk/itechservice/ckeditor/plugins
+https://prdapp.googlecode.com/svn
+
+
+
+2014-06-02T16:26:17.304936Z
+595
+pawitVaap@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f60dcbf1-057d-9f90-ed73-14650ba80abe
+
+a11yhelp
+dir
+
+about
+dir
+
+clipboard
+dir
+
+dialog
+dir
+
+fakeobjects
+dir
+
+icons.png
+file
+
+
+
+
+2014-08-19T14:44:57.977000Z
+b517cd444285385ec7bce8d52a83b48d
+2014-06-02T16:26:17.304936Z
+595
+pawitVaap@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10030
+
+icons_hidpi.png
+file
+
+
+
+
+2014-08-19T14:44:58.401000Z
+1f57f384a8331a0cd3b8dfadfb61f0cd
+2014-06-02T16:26:17.304936Z
+595
+pawitVaap@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34465
+
+image
+dir
+
+link
+dir
+
+magicline
+dir
+
+pastefromword
+dir
+
+scayt
+dir
+
+specialchar
+dir
+
+table
+dir
+
+tabletools
+dir
+
+wsc
+dir
+

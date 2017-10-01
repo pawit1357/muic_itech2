@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/595/trunk/itechservice/framework/test
+END
+CWebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/595/trunk/itechservice/framework/test/CWebTestCase.php
+END
+CDbTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/595/trunk/itechservice/framework/test/CDbTestCase.php
+END
+CDbFixtureManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/595/trunk/itechservice/framework/test/CDbFixtureManager.php
+END
+CTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/595/trunk/itechservice/framework/test/CTestCase.php
+END

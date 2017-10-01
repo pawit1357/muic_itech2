@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.schedule-dialog { width:950px;}
+.room-schedule {padding: 0; border: 1px solid black}
+.room-schedule th {width: 50px}
+.room-schedule th div{margin-left:-20px}
+.room-schedule td {}
+.room-schedule td .request{border:1px solid black; border-radius:3px; text-align: center; background: #129C8C; color:#FFFFFF}
+.room-schedule .date {width: 50px; border:0px; margin:0}

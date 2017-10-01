@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/595/trunk/itechservice/framework/logging
+END
+CDbLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CDbLogRoute.php
+END
+CWebLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CWebLogRoute.php
+END
+CLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CLogRoute.php
+END
+CLogFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CLogFilter.php
+END
+CLogRouter.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CLogRouter.php
+END
+CProfileLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CProfileLogRoute.php
+END
+CEmailLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CEmailLogRoute.php
+END
+CChainedLogFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CChainedLogFilter.php
+END
+CLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CLogger.php
+END
+CFileLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/595/trunk/itechservice/framework/logging/CFileLogRoute.php
+END

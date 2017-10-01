@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/views/webapp/protected/tests/unit
+END
+hg-hgkeep
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/views/webapp/protected/tests/unit/hg-hgkeep
+END
+git-gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/views/webapp/protected/tests/unit/git-gitkeep
+END

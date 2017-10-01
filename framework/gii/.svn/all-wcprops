@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/595/trunk/itechservice/framework/gii
+END
+CCodeModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/CCodeModel.php
+END
+CCodeFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/CCodeFile.php
+END
+GiiModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/GiiModule.php
+END
+CCodeGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/CCodeGenerator.php
+END
+CCodeForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/CCodeForm.php
+END

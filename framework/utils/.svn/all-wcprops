@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/595/trunk/itechservice/framework/utils
+END
+CFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/CFormatter.php
+END
+CPropertyValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/CPropertyValue.php
+END
+CPasswordHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/CPasswordHelper.php
+END
+CDateTimeParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/CDateTimeParser.php
+END
+CFileHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/CFileHelper.php
+END
+CMarkdownParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/CMarkdownParser.php
+END
+CLocalizedFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/CLocalizedFormatter.php
+END
+CTimestamp.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/CTimestamp.php
+END
+mimeTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/mimeTypes.php
+END
+CVarDumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/595/trunk/itechservice/framework/utils/CVarDumper.php
+END

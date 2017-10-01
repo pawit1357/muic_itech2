@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/595/trunk/itechservice/framework/db
+END
+CDbCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/595/trunk/itechservice/framework/db/CDbCommand.php
+END
+CDbTransaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/595/trunk/itechservice/framework/db/CDbTransaction.php
+END
+CDbMigration.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/595/trunk/itechservice/framework/db/CDbMigration.php
+END
+CDbDataReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/595/trunk/itechservice/framework/db/CDbDataReader.php
+END
+CDbException.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/595/trunk/itechservice/framework/db/CDbException.php
+END
+CDbConnection.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/595/trunk/itechservice/framework/db/CDbConnection.php
+END

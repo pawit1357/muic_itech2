@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/components/Pear/Text/Diff/Engine
+END
+native.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/components/Pear/Text/Diff/Engine/native.php
+END
+xdiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/components/Pear/Text/Diff/Engine/xdiff.php
+END
+shell.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/components/Pear/Text/Diff/Engine/shell.php
+END
+string.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/595/trunk/itechservice/framework/gii/components/Pear/Text/Diff/Engine/string.php
+END

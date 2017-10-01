@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/595/trunk/itechservice/framework/base
+END
+CModelBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CModelBehavior.php
+END
+CComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CComponent.php
+END
+interfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/595/trunk/itechservice/framework/base/interfaces.php
+END
+CHttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CHttpException.php
+END
+CErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CErrorHandler.php
+END
+CModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CModel.php
+END
+CSecurityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CSecurityManager.php
+END
+CException.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CException.php
+END
+CApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CApplication.php
+END
+CExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CExceptionEvent.php
+END
+CModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CModule.php
+END
+CApplicationComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CApplicationComponent.php
+END
+CStatePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CStatePersister.php
+END
+CModelEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CModelEvent.php
+END
+CErrorEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CErrorEvent.php
+END
+CBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/595/trunk/itechservice/framework/base/CBehavior.php
+END

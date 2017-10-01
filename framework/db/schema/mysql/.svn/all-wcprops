@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mysql
+END
+CMysqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mysql/CMysqlColumnSchema.php
+END
+CMysqlCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mysql/CMysqlCommandBuilder.php
+END
+CMysqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mysql/CMysqlSchema.php
+END
+CMysqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mysql/CMysqlTableSchema.php
+END

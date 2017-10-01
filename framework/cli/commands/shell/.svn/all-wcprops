@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/commands/shell
+END
+FormCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/commands/shell/FormCommand.php
+END
+HelpCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/commands/shell/HelpCommand.php
+END
+CrudCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/commands/shell/CrudCommand.php
+END
+ControllerCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/commands/shell/ControllerCommand.php
+END
+ModuleCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/commands/shell/ModuleCommand.php
+END
+ModelCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/595/trunk/itechservice/framework/cli/commands/shell/ModelCommand.php
+END

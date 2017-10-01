@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/595/trunk/itechservice/framework/i18n/gettext
+END
+CGettextPoFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/595/trunk/itechservice/framework/i18n/gettext/CGettextPoFile.php
+END
+CGettextFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/595/trunk/itechservice/framework/i18n/gettext/CGettextFile.php
+END
+CGettextMoFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/595/trunk/itechservice/framework/i18n/gettext/CGettextMoFile.php
+END

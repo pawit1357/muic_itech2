@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<menus>
+  <menu id="183">
+    <icon>images/icon_app_menu/home.png</icon>
+    <name>Home</name>
+    <src>content/views/183home.xml</src>
+    <type>0</type>
+    <submenu/>
+  </menu>
+  <menu id="170">
+    <icon>images/icon_app_menu/info.png</icon>
+    <name>Information</name>
+    <src>content/views/170information.xml</src>
+    <type>2</type>
+    <submenu/>
+  </menu>
+  <menu id="171">
+    <icon>images/icon_app_menu/new_arrivals.png</icon>
+    <name>New Arrivals</name>
+    <src>content/views/171newarrivals.xml</src>
+    <type>4</type>
+    <submenu/>
+  </menu>
+  <menu id="172">
+    <icon>images/icon_app_menu/reccomend.png</icon>
+    <name>Recommend Resources</name>
+    <src>content/views/172recommendresources.xml</src>
+    <type>4</type>
+    <submenu/>
+  </menu>
+  <menu id="174">
+    <icon>images/icon_app_menu/thesis.png</icon>
+    <name>Thesis / Thematic Paper</name>
+    <src>content/views/174thesisthematicpaper.xml</src>
+    <type>4</type>
+    <submenu/>
+  </menu>
+  <menu id="175">
+    <icon>images/icon_app_menu/ask.png</icon>
+    <name>Ask</name>
+    <src>content/views/175ask.xml</src>
+    <type>5</type>
+    <submenu/>
+  </menu>
+</menus>

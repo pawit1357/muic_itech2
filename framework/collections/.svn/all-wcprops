@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/595/trunk/itechservice/framework/collections
+END
+CMapIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CMapIterator.php
+END
+CAttributeCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CAttributeCollection.php
+END
+CMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CMap.php
+END
+CQueueIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CQueueIterator.php
+END
+CQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CQueue.php
+END
+CListIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CListIterator.php
+END
+CList.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CList.php
+END
+CConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CConfiguration.php
+END
+CStackIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CStackIterator.php
+END
+CTypedList.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CTypedList.php
+END
+CTypedMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CTypedMap.php
+END
+CStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/595/trunk/itechservice/framework/collections/CStack.php
+END

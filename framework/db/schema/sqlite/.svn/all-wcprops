@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/sqlite
+END
+CSqliteColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/sqlite/CSqliteColumnSchema.php
+END
+CSqliteCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/sqlite/CSqliteCommandBuilder.php
+END
+CSqliteSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/sqlite/CSqliteSchema.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mssql
+END
+CMssqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mssql/CMssqlSchema.php
+END
+CMssqlPdoAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mssql/CMssqlPdoAdapter.php
+END
+CMssqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mssql/CMssqlTableSchema.php
+END
+CMssqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mssql/CMssqlColumnSchema.php
+END
+CMssqlSqlsrvPdoAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mssql/CMssqlSqlsrvPdoAdapter.php
+END
+CMssqlCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/595/trunk/itechservice/framework/db/schema/mssql/CMssqlCommandBuilder.php
+END
